@@ -6,6 +6,7 @@ Fun games to play on Zoom with your friends and coworkers!
 - [Drawasaurus](https://www.drawasaurus.org) | [skribbl.io](https://skribbl.io) - a drawing & guessing game `fast`, `2-20 players`, `imagination`
 - [TypeRacer](https://play.typeracer.com) - test your typing skills `fast`, `2-20 players`
 - [Haxball](https://www.haxball.com) - a soccer game where teamwork is key `fast`, `4-14 players`, `action`
+- [Curve Fever Pro](https://curvefever.pro) - cut off opponents, squeeze through tiny holes and unlock new powers `fast`, `2-8 players`, `action`
 - [JigsawPuzzles.io](https://jigsawpuzzles.io) - solve puzzles together `slow`, `2-10 players`, `puzzle`
 
 # Tools
