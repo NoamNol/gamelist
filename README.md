@@ -11,6 +11,7 @@ Fun games to play on Zoom with your friends and coworkers!
 - [Haxball](https://www.haxball.com) - a soccer game where teamwork is key `fast`, `4-14 players`, `action`
 - [Curve Fever Pro](https://curvefever.pro) - cut off opponents, squeeze through tiny holes and unlock new powers `fast`, `2-8 players`, `action`
 - [JigsawPuzzles.io](https://jigsawpuzzles.io) - solve puzzles together `slow`, `2-10 players`, `puzzle`
+- [Coding Escape](https://escape.codingame.com/games) - escape game for coders and non-coders `slow`, `2-6 players`, `puzzle`, `code`
 - [Gandalf](https://gandalf.lakera.ai/) - make Gandalf AI reveal the secret password `1-20 players`, `puzzle`, `ai`
 
 # Tools
