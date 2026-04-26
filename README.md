@@ -28,8 +28,8 @@ Fun games to play on Zoom with your friends and coworkers!
 - [Gandalf](https://gandalf.lakera.ai/) - make Gandalf AI reveal the secret password `1-20 players`, `puzzle`, `ai`
 
 ### Code
-- [Coding Escape](https://escape.codingame.com/games) - escape game for coders and non-coders `slow`, `2-6 players`, `puzzle`, `code`
-
+- [Clash of Code](https://www.codingame.com/multiplayer/clashofcode) - improve your coding by solving short programming problems with other people `medium`, `2-8 players`, `puzzle`, `code`
+- [Coding Escape](https://escape.codingame.com/) - escape game for coders and non-coders `slow`, `2-6 players`, `puzzle`, `code`
 
 
 # Tools
