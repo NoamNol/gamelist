@@ -4,6 +4,7 @@ Fun games to play on Zoom with your friends and coworkers!
 ### Imagination
 - [Drawasaurus](https://www.drawasaurus.org) | [skribbl.io](https://skribbl.io) - a drawing & guessing game `fast`, `2-20 players`, `imagination`
 - [Semantle](https://semantle.com/junior) - guess the secret word `fast`, `1-8 players`, `imagination`
+- [Codenames](https://horsepaste.com/) | [2](https://netgames.io/games/codewords/) | [3](https://codenames.game/) - codebreakers listen to their codemasters and race to identify their secret codewords `medium`, `4-8 players`, `imagination`
 
 ### Poker Face
 - [One Night Ultimate Werewolf](https://netgames.io/games/onu-werewolf/) - everyone is dealt a secret role. It’s your job to figure out who the Werewolves are and to kill at least one of them `fast`, `3-10 players`, `poker face`
